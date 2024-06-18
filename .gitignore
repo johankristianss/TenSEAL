@@ -72,7 +72,6 @@ share/python-wheels/
 MANIFEST
 CMakeFiles
 CMakeCache.txt
-Makefile
 cmake_install.cmake
 
 # PyInstaller
